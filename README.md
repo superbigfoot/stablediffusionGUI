@@ -1,4 +1,6 @@
 # stablediffusionGUI
+ダウンロードはページ右側releasesより。
+
 stablediffusionの入力値をGUI上から設定、実行できます。  
   
 activate.bat PATHのユーザーネームは変更必須です。  
